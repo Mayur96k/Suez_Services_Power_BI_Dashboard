@@ -71,6 +71,9 @@ In order to complete the project, I've used the following applications and libra
 
 The project architecture is quite straight forward and can be explained through the below image:
 
+![PA](https://github.com/Mayur96k/Suez_Services_Power_BI_Dashboard/assets/114133429/537877a5-ca76-4a9d-a69a-ace4ea0ca3c0)
+
+
 
 
 
