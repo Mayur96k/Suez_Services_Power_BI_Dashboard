@@ -74,7 +74,12 @@ The project architecture is quite straight forward and can be explained through 
 ![PA](https://github.com/Mayur96k/Suez_Services_Power_BI_Dashboard/assets/114133429/537877a5-ca76-4a9d-a69a-ace4ea0ca3c0)
 
 
+## Power BI Dashboard
 
+
+
+
+![pb_s](https://github.com/Mayur96k/Suez_Services_Power_BI_Dashboard/assets/114133429/f1591523-6b96-4faa-9c7e-2869495e1c56)
 
 
 
