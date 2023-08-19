@@ -88,7 +88,8 @@ Finally; we leverage the clean & analysis-ready dataset for some exploratory dat
 
 
 
-![pb_s](https://github.com/Mayur96k/Suez_Services_Power_BI_Dashboard/assets/114133429/f1591523-6b96-4faa-9c7e-2869495e1c56)
+![Screenshot from 2023-08-19 19-24-11](https://github.com/Mayur96k/Suez_Services_Power_BI_Dashboard/assets/114133429/6293f2f4-9cb0-4369-8f94-36445cc54d16)
+
 
 
 
