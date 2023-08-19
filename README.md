@@ -9,11 +9,17 @@ This project focuses on scraping all the service locations across Australia & Ne
 The repository directory structure is as follows:
 
 Analyzing-Suez-Services
+
  01_WEBSCRAPING
+ 
  02_ETL
+ 
  03_DATA
+ 
  04_ANALYSIS
+ 
  05_DASHBOARD
+ 
  06_RESOURCES
 
 The type of content present in the directories is as follows:
